@@ -1,7 +1,7 @@
 # action.yml
 name: 'Unzip and Update Repository Content'
 description: 'Unzips a specified file, cleans up target directories, and commits the extracted content to the repository.'
-author: 'Your GitHub Username' # Replace with your username
+author: 'moehami' # Replace with your username
 
 inputs:
   zip_file_path:
